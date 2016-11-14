@@ -1,0 +1,22 @@
+[out:json];
+area[name="Lampung"];
+(
+way
+  [place=island]
+  [name="Pulau Pahawang"]
+  [natural=coastline]
+  (area);
+way
+  [place=island]
+  [name="Pulau Pahawang"]
+  [natural=coastline]
+  (area);
+relation
+  [!wikimedia]
+  (area);
+relation
+  [!wikidata]
+  (area);
+);
+(._;>;);
+out meta;
