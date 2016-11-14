@@ -1,4 +1,4 @@
-#Pulau Pahawang
+# PAHAWANG ISLAND
 
 Pahawang island is one of most beautifull island in Indonesia, located in Lampung province, exactly in the district Pesawaran.
 
@@ -20,7 +20,7 @@ For more info about Pahawang island see [pahawang_island_map.html^](https://html
 
 ## How to get all data on this repository
 
-### Perform query on [Overpass Turbo]http://overpass-turbo.eu/
+### Perform query on [Overpass Turbo](http://overpass-turbo.eu/)
 Overpass turbo is a web based data mining tool for OpenStreetMap. It runs any kind of Overpass API query and shows the results on an interactive map. [source](http://wiki.openstreetmap.org/wiki/Overpass_turbo), to perform a search query data on Pahawang island, using OverpassQL which can be seen in [query.txt](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/query.txt) and export the result to geojson for using it as layer data in [QGIS](http://www.qgis.org/en/site/).
 
 ### Edit the Map
