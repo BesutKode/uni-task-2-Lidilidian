@@ -14,8 +14,10 @@ Area | 1.084 ha [(sumber)](http://www.cumilebay.com/2012/08/pulau-pahawang.html)
 OSM Way id | [157314216](https://www.openstreetmap.org/way/157314216)
 Koordinat | 5° 40' 26.65" S, 105° 13' 8.95" E
   | -5.674068, 105.219154 [WGS84 - GeoHack](https://tools.wmflabs.org/geohack/geohack.php?language=id&pagename=Pulau_Pahawang%2C_Punduh_Pidada%2C_Pesawaran&params=-5.6740676_N_105.2191544_E_)
+Map | `pahawang_island_map.html`
 
-For more info about Pahawang island see [pahawang_island_map.html^](https://htmlpreview.github.io/?https://raw.githubusercontent.com/BesutKode/uni-task-2-Lidilidian/master/pahawang_island_map.html?token=ARJl5Su-T_H81gHayKbHKseu6Aa0k_axks5YM2iCwA%3D%3D)
+For more info about Pahawang island see :
+- http://www.utiket.com/id/obyek-wisata/bandar_lampung/423-menikmati_pulau_pahawang.html
 
 
 ## How to get all data on this repository
