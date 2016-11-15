@@ -2,21 +2,23 @@
 
 Pahawang island is one of most beautifull island in Indonesia, located in Lampung province, exactly in the district Pesawaran.
 
-Tentang | Isi
+About | Detail
 ---|---
-Nama | Pulau Pahawang
-Provinsi | [Lampung](https://id.wikipedia.org/wiki/Lampung)
-Kota/Kabupaten | [Kabupaten Pesawaran](https://id.wikipedia.org/wiki/Kabupaten_Pesawaran)
+Name | Pulau Pahawang
+Province | [Lampung](https://id.wikipedia.org/wiki/Lampung)
+City/Regency | [Kabupaten Pesawaran](https://id.wikipedia.org/wiki/Kabupaten_Pesawaran)
 Wikidata | [Q12506865](https://www.wikidata.org/wiki/Q12506865)
 Wikipedia | [Pulau Pahawang](https://id.wikipedia.org/wiki/Pulau_Pahawang,_Punduh_Pidada,_Pesawaran)
-Jumlah Populasi | 1.379 penduduk - [(sumber)](https://www.bps.go.id/website/fileMenu/Penduduk-Indonesia-Menurut-Desa-2010.pdf)
-Area | 1.084 ha [(sumber)](http://www.cumilebay.com/2012/08/pulau-pahawang.html)
+Population | 1.379 penduduk - [(source)](https://www.bps.go.id/website/fileMenu/Penduduk-Indonesia-Menurut-Desa-2010.pdf)
+Area | 1.084 ha [(source)](http://www.cumilebay.com/2012/08/pulau-pahawang.html)
 OSM Way id | [157314216](https://www.openstreetmap.org/way/157314216)
-Koordinat | 5° 40' 26.65" S, 105° 13' 8.95" E
+Postal Code | 35453 [(source)](http://nomorkodepos.com/di/lampung/pesawaran/marga-punduh/pulau-pahawang/)
+Coordinate | 5° 40' 26.65" S, 105° 13' 8.95" E
   | -5.674068, 105.219154 [WGS84 - GeoHack](https://tools.wmflabs.org/geohack/geohack.php?language=id&pagename=Pulau_Pahawang%2C_Punduh_Pidada%2C_Pesawaran&params=-5.6740676_N_105.2191544_E_)
-Map | `pahawang_island_map.html`
+Maps | [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_way.geojson)
 
 For more info about Pahawang island see :
+- [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_way.geojson) Maps
 - http://www.utiket.com/id/obyek-wisata/bandar_lampung/423-menikmati_pulau_pahawang.html
 
 
