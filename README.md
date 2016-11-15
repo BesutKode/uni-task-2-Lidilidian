@@ -15,10 +15,10 @@ OSM Way id | [157314216](https://www.openstreetmap.org/way/157314216)
 Postal Code | 35453 [(source)](http://nomorkodepos.com/di/lampung/pesawaran/marga-punduh/pulau-pahawang/)
 Coordinate | 5° 40' 26.65" S, 105° 13' 8.95" E
   | -5.674068, 105.219154 [WGS84 - GeoHack](https://tools.wmflabs.org/geohack/geohack.php?language=id&pagename=Pulau_Pahawang%2C_Punduh_Pidada%2C_Pesawaran&params=-5.6740676_N_105.2191544_E_)
-Maps | [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_way.geojson)
+Maps | [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_map.geojson)
 
 For more info about Pahawang island see :
-- [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_way.geojson) Maps
+- [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_map.geojson) Maps
 - http://www.utiket.com/id/obyek-wisata/bandar_lampung/423-menikmati_pulau_pahawang.html
 
 
@@ -38,7 +38,7 @@ I do modifications [geoJSONToShpFile](https://github.com/TipsForGIS/geoJSONToShp
 
 ##License
 
-- This repository are using [MIT License]((https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/LICENSE.md))
-- The data (kml, osm, qgs, topojson and geojson) are under [ODbL v1.0]((https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/LICENSE_ODbL.md))
+- This repository are using [MIT License](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/LICENSE)
+- The data (kml, osm, qgs, topojson and geojson) are under [ODbL v1.0](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/license/LICENCSE_ODbL.md)
 - The source data about population in pahawang island is attributed to Badan Pusat Statistik (BPS) Indonesia under [CC-BY](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/LICENSE_CC-BY.md) and the use of information based on : [UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 14 TAHUN 2008](https://www.bps.go.id/website/fileMenu/fileMenu-15.pdf) , [PERATURAN PEMERINTAH REPUBLIK INDONESIA NOMOR 61 TAHUN 2010](https://www.bps.go.id/website/fileMenu/Peraturan-Pemerinrah-RI-No-61-Tahun-2010-tentang-Pelaksanaan-UU-No-14-Tahun-2008-tentang-KIP.pdf), and [PERATURAN KOMISI INFORMASI BADAN PUSAT STATISTIK REPUBLIK INDONESIA NOMOR 1 TAHUN 2010](https://www.bps.go.id/website/fileMenu/Peraturan-Komisi-Informasi-Nomor-1-Tahun-2010-tentang-Standar-Layanan-Informasi-Publik.pdf)
 - All related artikel link to openstreetmap are under [CC BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)
