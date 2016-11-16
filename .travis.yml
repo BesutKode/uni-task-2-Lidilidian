@@ -1,7 +1,7 @@
-language: python
+language: bash
 
-python:
-  - "2.7"
+before_script:
+    - curl -L "http://downloads.sourceforge.net/shunit2/shunit2-2.0.3.tgz" | tar zx
 
-script: 
-  - python test.py
+script:
+    - bash bash.sh
