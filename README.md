@@ -15,10 +15,10 @@ OSM Way id | [157314216](https://www.openstreetmap.org/way/157314216)
 Postal Code | 35453 [(source)](http://nomorkodepos.com/di/lampung/pesawaran/marga-punduh/pulau-pahawang/)
 Coordinate | 5° 40' 26.65" S, 105° 13' 8.95" E
   | -5.674068, 105.219154 [WGS84 - GeoHack](https://tools.wmflabs.org/geohack/geohack.php?language=id&pagename=Pulau_Pahawang%2C_Punduh_Pidada%2C_Pesawaran&params=-5.6740676_N_105.2191544_E_)
-Maps | [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_map.geojson)
+Maps | [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/index.html)
 
 For more info about Pahawang island see :
-- [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/pahawang_island_map.geojson) Maps
+- [Pahawang Island](https://github.com/BesutKode/uni-task-2-Lidilidian/blob/master/data/pahawang_edited/1-0-0/pahawang_island_map.geojson) Maps
 - http://www.utiket.com/id/obyek-wisata/bandar_lampung/423-menikmati_pulau_pahawang.html
 
 
