@@ -1,0 +1,9010 @@
+999
+DXF created from QGIS
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$EXTMIN
+ 10
+105.2059689451304223
+ 20
+-5.69125081247826969
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+105.24361375513043981
+ 20
+-5.65982557978260203
+ 30
+0.0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$PDMODE
+ 70
+    33
+  9
+$PDSIZE
+ 40
+     1
+  9
+$PSLTSCALE
+ 70
+     0
+  9
+$HANDSEED
+  5
+9999999
+  9
+$DWGCODEPAGE
+  3
+ANSI_1253
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  5
+64
+100
+AcDbSymbolTable
+ 70
+     5
+  0
+LTYPE
+  5
+65
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+66
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+67
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CONTINUOUS
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+68
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASH
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     2
+ 40
+0.00000002335619739
+ 49
+0.00000001796630568
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+  0
+LTYPE
+  5
+69
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     2
+ 40
+0.00000001077978341
+ 49
+0.0000000053898917
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+  0
+LTYPE
+  5
+6a
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     4
+ 40
+0.0000000341359808
+ 49
+0.00000001796630568
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+ 49
+0.0000000053898917
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+  0
+LTYPE
+  5
+6b
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTDOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     6
+ 40
+0.00000004491576421
+ 49
+0.00000001796630568
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+ 49
+0.0000000053898917
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+ 49
+0.0000000053898917
+ 74
+     0
+ 49
+-0.0000000053898917
+ 74
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+6c
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+BLOCK_RECORD
+  5
+6d
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  0
+BLOCK_RECORD
+  5
+6e
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  0
+BLOCK_RECORD
+  5
+6f
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+  0
+BLOCK_RECORD
+  5
+70
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+symbolLayer0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+71
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+72
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+73
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+74
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+VPORT
+  5
+75
+100
+AcDbSymbolTable
+  0
+VPORT
+  5
+76
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+1.0
+ 24
+1.0
+ 15
+1.0
+ 25
+1.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+105.22479135013043106
+ 27
+-5.67553819613043586
+ 40
+0.03142523269566766
+ 41
+1.19791666666663366
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     1
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+77
+100
+AcDbSymbolTable
+100
+AcDbDimStyleTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+78
+100
+AcDbSymbolTable
+ 70
+     6
+  0
+LAYER
+  5
+79
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7a
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+pahawang_island_map OGRGeoJSON Point
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7b
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+pahawang_island_map OGRGeoJSON Polygon
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7c
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+daerah aliran sungai Features Polygon25D
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7d
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+batas_administrasi_desa Indo_Desa_region
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7e
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+batas_desa_pahawang OGRGeoJSON MultiPolygon25D
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+7f
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+80
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+ 70
+    64
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+5.0
+  3
+romans.shx
+  4
+
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+81
+330
+6d
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+82
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+83
+330
+6e
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+84
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+85
+330
+6f
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+86
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+87
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+symbolLayer0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+symbolLayer0
+  1
+
+  0
+HATCH
+  5
+88
+330
+70
+100
+AcDbEntity
+  8
+0
+420
+6024495
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     3
+ 72
+     1
+ 73
+     1
+ 93
+     2
+ 10
+-0.00000000898315284
+ 20
+0.0
+ 42
+1.0
+ 10
+0.00000000898315284
+ 20
+0.0
+ 42
+1.0
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+LWPOLYLINE
+  5
+89
+330
+70
+  8
+0
+100
+AcDbEntity
+100
+AcDbPolyline
+  6
+CONTINUOUS
+420
+     0
+ 90
+     2
+ 70
+     1
+ 43
+0.0
+ 10
+-0.00000000898315284
+ 20
+0.0
+ 42
+1.0
+ 10
+0.00000000898315284
+ 20
+0.0
+ 42
+1.0
+  0
+ENDBLK
+  5
+8a
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  5
+8b
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+  6
+CONTINUOUS
+420
+     0
+100
+AcDb3dPolyline
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     8
+  0
+VERTEX
+  5
+8c
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24137115499999595
+ 20
+-5.67233991599993992
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+8d
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24112701399999992
+ 20
+-5.67233991599993992
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+8e
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2407684329999995
+ 20
+-5.67257881199993008
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+8f
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2408611580000013
+ 20
+-5.67294282999994959
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+90
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24089050300000281
+ 20
+-5.67305803299996025
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+91
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24101257300000611
+ 20
+-5.67353582399993961
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+92
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24079367699999921
+ 20
+-5.67460949699994988
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+93
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24064636200000677
+ 20
+-5.67533206899998
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+94
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24089050300000281
+ 20
+-5.67593002299997984
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+95
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24196624799999711
+ 20
+-5.67593002299997984
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+96
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24200859299999422
+ 20
+-5.67591807799994008
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+97
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24281311000000017
+ 20
+-5.67569112799993025
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+98
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24291992199999868
+ 20
+-5.67509078999995964
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+99
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24327850299999909
+ 20
+-5.67473316199994038
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9a
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24363708500000314
+ 20
+-5.67389392899996992
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9b
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24363708500000314
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9c
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24363708500000314
+ 20
+-5.67294282999994959
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9d
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24363708500000314
+ 20
+-5.67281818399994009
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9e
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24281311000000017
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+9f
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24200859299999422
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a0
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24196624799999711
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 70
+    32
+  0
+SEQEND
+  5
+a1
+330
+   139
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+  0
+HATCH
+  5
+a2
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+2874105
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     2
+ 72
+     0
+ 73
+     1
+ 93
+    22
+ 10
+105.24137115499999595
+ 20
+-5.67233991599993992
+ 30
+0.0
+ 10
+105.24112701399999992
+ 20
+-5.67233991599993992
+ 30
+0.0
+ 10
+105.2407684329999995
+ 20
+-5.67257881199993008
+ 30
+0.0
+ 10
+105.2408611580000013
+ 20
+-5.67294282999994959
+ 30
+0.0
+ 10
+105.24089050300000281
+ 20
+-5.67305803299996025
+ 30
+0.0
+ 10
+105.24101257300000611
+ 20
+-5.67353582399993961
+ 30
+0.0
+ 10
+105.24079367699999921
+ 20
+-5.67460949699994988
+ 30
+0.0
+ 10
+105.24064636200000677
+ 20
+-5.67533206899998
+ 30
+0.0
+ 10
+105.24089050300000281
+ 20
+-5.67593002299997984
+ 30
+0.0
+ 10
+105.24196624799999711
+ 20
+-5.67593002299997984
+ 30
+0.0
+ 10
+105.24200859299999422
+ 20
+-5.67591807799994008
+ 30
+0.0
+ 10
+105.24281311000000017
+ 20
+-5.67569112799993025
+ 30
+0.0
+ 10
+105.24291992199999868
+ 20
+-5.67509078999995964
+ 30
+0.0
+ 10
+105.24327850299999909
+ 20
+-5.67473316199994038
+ 30
+0.0
+ 10
+105.24363708500000314
+ 20
+-5.67389392899996992
+ 30
+0.0
+ 10
+105.24363708500000314
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 10
+105.24363708500000314
+ 20
+-5.67294282999994959
+ 30
+0.0
+ 10
+105.24363708500000314
+ 20
+-5.67281818399994009
+ 30
+0.0
+ 10
+105.24281311000000017
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 10
+105.24200859299999422
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 10
+105.24196624799999711
+ 20
+-5.67269802099997023
+ 30
+0.0
+ 10
+105.24137115499999595
+ 20
+-5.67233991599993992
+ 30
+0.0
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+POLYLINE
+  5
+a3
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+  6
+CONTINUOUS
+420
+     0
+100
+AcDb3dPolyline
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     8
+  0
+VERTEX
+  5
+a4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21312187499999879
+ 20
+-5.66432954899994012
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21284192699999949
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21284192699999949
+ 20
+-5.66281167899995985
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21272404799999833
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21188354500000628
+ 20
+-5.6638779639999397
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+a9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21080779999999777
+ 20
+-5.66399812699996019
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+aa
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21021270800000025
+ 20
+-5.66423797599998036
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ab
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21021270800000025
+ 20
+-5.66507577899994974
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ac
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20937347400000306
+ 20
+-5.66507530199992981
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ad
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2091903689999981
+ 20
+-5.66555499999993017
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ae
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20900726300000372
+ 20
+-5.66603469799998027
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+af
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20900726300000372
+ 20
+-5.66687107099995035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b0
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20841980000000149
+ 20
+-5.66782903699992957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b1
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20829772899999455
+ 20
+-5.66890621199997025
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b2
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20758819600000322
+ 20
+-5.66986417799995035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b3
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20639038100000562
+ 20
+-5.67118120199995968
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20530700700000182
+ 20
+-5.67249679599995993
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.205078125
+ 20
+-5.67309617999995996
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20614623999999537
+ 20
+-5.67321491199993044
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20674896200000603
+ 20
+-5.67309474899997035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20770263699999703
+ 20
+-5.67429208799995966
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+b9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20854187000000479
+ 20
+-5.67536783199995032
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ba
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20938110400000198
+ 20
+-5.67620611199992986
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+bb
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21009826700000644
+ 20
+-5.67620611199992986
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+bc
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21069335900000397
+ 20
+-5.67608594899996977
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+bd
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21116638200000182
+ 20
+-5.6768040659999297
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+be
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21069335900000397
+ 20
+-5.67728185699997034
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+bf
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21021270800000025
+ 20
+-5.67823982199996991
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c0
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20950317400000529
+ 20
+-5.6784801479999496
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c1
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20879363999999612
+ 20
+-5.67862081499993021
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c2
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20813751199999331
+ 20
+-5.67939090699996996
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c3
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20805148899999892
+ 20
+-5.68058298799997008
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20786285399999826
+ 20
+-5.68319702099995983
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20781186300000343
+ 20
+-5.68377616299995037
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20764160199999537
+ 20
+-5.68570995299995996
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.20776367199999868
+ 20
+-5.68608999299994
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2086563109999986
+ 20
+-5.68601989699994004
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+c9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2097396850000024
+ 20
+-5.68637800199997034
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ca
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21034240699999884
+ 20
+-5.68649816499993044
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+cb
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21132155499999783
+ 20
+-5.6867436069999302
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+cc
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21176910399999826
+ 20
+-5.6868557929999497
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+cd
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21260833700000603
+ 20
+-5.6868557929999497
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ce
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21367645300000504
+ 20
+-5.68817186399996988
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+cf
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21381623800000682
+ 20
+-5.68842568499997014
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d0
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21440124500000479
+ 20
+-5.68948793399994024
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d1
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21488189699999793
+ 20
+-5.69020605099995969
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d2
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21607208300000025
+ 20
+-5.69032478299993993
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d3
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21706168500000445
+ 20
+-5.6897156799999502
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21762847899999826
+ 20
+-5.68936681699995006
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21965789799999413
+ 20
+-5.68864822399995962
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22086334200000124
+ 20
+-5.68828916499995962
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22216796899999736
+ 20
+-5.68816900299993033
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22256045100000676
+ 20
+-5.68794282999994039
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+d9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2228419270000046
+ 20
+-5.68778062699994003
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+da
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22299957299999562
+ 20
+-5.68768978099995959
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+db
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22540283200000033
+ 20
+-5.68768882799998021
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+dc
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2262268070000033
+ 20
+-5.68804693199995981
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+dd
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22673220699999774
+ 20
+-5.68710949699994028
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+de
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22693633999999463
+ 20
+-5.68673086199992994
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+df
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22784192700000006
+ 20
+-5.68582841999995026
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e0
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22789764399999513
+ 20
+-5.68577289599994984
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e1
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22873687700000289
+ 20
+-5.6855330469999803
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e2
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22883443000000625
+ 20
+-5.6849406479999498
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e3
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22897338900000364
+ 20
+-5.68409681299993963
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22937909600000239
+ 20
+-5.68358395299992036
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22944641099999785
+ 20
+-5.68349885899993978
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22944641099999785
+ 20
+-5.68325068599995031
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22944641099999785
+ 20
+-5.6829428299999396
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22944641099999785
+ 20
+-5.68218183499994023
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+e9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2294962699999985
+ 20
+-5.68210949699994039
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ea
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23034192699999778
+ 20
+-5.68088256099998024
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+eb
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23064500799999621
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ec
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23034192699999778
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ed
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22968763000000081
+ 20
+-5.67914888499996007
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ee
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2264552080000044
+ 20
+-5.67849621499993962
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ef
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2261752600000051
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f0
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22534192700000233
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f1
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22534192700000233
+ 20
+-5.67877616299994958
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f2
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22316907500000127
+ 20
+-5.67817110099997979
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f3
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21788261700000078
+ 20
+-5.67425142399997995
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f4
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21617525999999998
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f5
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21568209599999477
+ 20
+-5.67343599399992993
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f6
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2137354810000005
+ 20
+-5.67061657699998012
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f7
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21450859300000502
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f8
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21395520800000156
+ 20
+-5.66766288199995039
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+f9
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21367526000000225
+ 20
+-5.66544282999995996
+ 30
+0.0
+ 70
+    32
+  0
+SEQEND
+  5
+fa
+330
+   163
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+  0
+HATCH
+  5
+fb
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+2874105
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     2
+ 72
+     0
+ 73
+     1
+ 93
+    87
+ 10
+105.21312187499999879
+ 20
+-5.66432954899994012
+ 30
+0.0
+ 10
+105.21284192699999949
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 10
+105.21284192699999949
+ 20
+-5.66281167899995985
+ 30
+0.0
+ 10
+105.21272404799999833
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 10
+105.21188354500000628
+ 20
+-5.6638779639999397
+ 30
+0.0
+ 10
+105.21080779999999777
+ 20
+-5.66399812699996019
+ 30
+0.0
+ 10
+105.21021270800000025
+ 20
+-5.66423797599998036
+ 30
+0.0
+ 10
+105.21021270800000025
+ 20
+-5.66507577899994974
+ 30
+0.0
+ 10
+105.20937347400000306
+ 20
+-5.66507530199992981
+ 30
+0.0
+ 10
+105.2091903689999981
+ 20
+-5.66555499999993017
+ 30
+0.0
+ 10
+105.20900726300000372
+ 20
+-5.66603469799998027
+ 30
+0.0
+ 10
+105.20900726300000372
+ 20
+-5.66687107099995035
+ 30
+0.0
+ 10
+105.20841980000000149
+ 20
+-5.66782903699992957
+ 30
+0.0
+ 10
+105.20829772899999455
+ 20
+-5.66890621199997025
+ 30
+0.0
+ 10
+105.20758819600000322
+ 20
+-5.66986417799995035
+ 30
+0.0
+ 10
+105.20639038100000562
+ 20
+-5.67118120199995968
+ 30
+0.0
+ 10
+105.20530700700000182
+ 20
+-5.67249679599995993
+ 30
+0.0
+ 10
+105.205078125
+ 20
+-5.67309617999995996
+ 30
+0.0
+ 10
+105.20614623999999537
+ 20
+-5.67321491199993044
+ 30
+0.0
+ 10
+105.20674896200000603
+ 20
+-5.67309474899997035
+ 30
+0.0
+ 10
+105.20770263699999703
+ 20
+-5.67429208799995966
+ 30
+0.0
+ 10
+105.20854187000000479
+ 20
+-5.67536783199995032
+ 30
+0.0
+ 10
+105.20938110400000198
+ 20
+-5.67620611199992986
+ 30
+0.0
+ 10
+105.21009826700000644
+ 20
+-5.67620611199992986
+ 30
+0.0
+ 10
+105.21069335900000397
+ 20
+-5.67608594899996977
+ 30
+0.0
+ 10
+105.21116638200000182
+ 20
+-5.6768040659999297
+ 30
+0.0
+ 10
+105.21069335900000397
+ 20
+-5.67728185699997034
+ 30
+0.0
+ 10
+105.21021270800000025
+ 20
+-5.67823982199996991
+ 30
+0.0
+ 10
+105.20950317400000529
+ 20
+-5.6784801479999496
+ 30
+0.0
+ 10
+105.20879363999999612
+ 20
+-5.67862081499993021
+ 30
+0.0
+ 10
+105.20813751199999331
+ 20
+-5.67939090699996996
+ 30
+0.0
+ 10
+105.20805148899999892
+ 20
+-5.68058298799997008
+ 30
+0.0
+ 10
+105.20786285399999826
+ 20
+-5.68319702099995983
+ 30
+0.0
+ 10
+105.20781186300000343
+ 20
+-5.68377616299995037
+ 30
+0.0
+ 10
+105.20764160199999537
+ 20
+-5.68570995299995996
+ 30
+0.0
+ 10
+105.20776367199999868
+ 20
+-5.68608999299994
+ 30
+0.0
+ 10
+105.2086563109999986
+ 20
+-5.68601989699994004
+ 30
+0.0
+ 10
+105.2097396850000024
+ 20
+-5.68637800199997034
+ 30
+0.0
+ 10
+105.21034240699999884
+ 20
+-5.68649816499993044
+ 30
+0.0
+ 10
+105.21132155499999783
+ 20
+-5.6867436069999302
+ 30
+0.0
+ 10
+105.21176910399999826
+ 20
+-5.6868557929999497
+ 30
+0.0
+ 10
+105.21260833700000603
+ 20
+-5.6868557929999497
+ 30
+0.0
+ 10
+105.21367645300000504
+ 20
+-5.68817186399996988
+ 30
+0.0
+ 10
+105.21381623800000682
+ 20
+-5.68842568499997014
+ 30
+0.0
+ 10
+105.21440124500000479
+ 20
+-5.68948793399994024
+ 30
+0.0
+ 10
+105.21488189699999793
+ 20
+-5.69020605099995969
+ 30
+0.0
+ 10
+105.21607208300000025
+ 20
+-5.69032478299993993
+ 30
+0.0
+ 10
+105.21706168500000445
+ 20
+-5.6897156799999502
+ 30
+0.0
+ 10
+105.21762847899999826
+ 20
+-5.68936681699995006
+ 30
+0.0
+ 10
+105.21965789799999413
+ 20
+-5.68864822399995962
+ 30
+0.0
+ 10
+105.22086334200000124
+ 20
+-5.68828916499995962
+ 30
+0.0
+ 10
+105.22216796899999736
+ 20
+-5.68816900299993033
+ 30
+0.0
+ 10
+105.22256045100000676
+ 20
+-5.68794282999994039
+ 30
+0.0
+ 10
+105.2228419270000046
+ 20
+-5.68778062699994003
+ 30
+0.0
+ 10
+105.22299957299999562
+ 20
+-5.68768978099995959
+ 30
+0.0
+ 10
+105.22540283200000033
+ 20
+-5.68768882799998021
+ 30
+0.0
+ 10
+105.2262268070000033
+ 20
+-5.68804693199995981
+ 30
+0.0
+ 10
+105.22673220699999774
+ 20
+-5.68710949699994028
+ 30
+0.0
+ 10
+105.22693633999999463
+ 20
+-5.68673086199992994
+ 30
+0.0
+ 10
+105.22784192700000006
+ 20
+-5.68582841999995026
+ 30
+0.0
+ 10
+105.22789764399999513
+ 20
+-5.68577289599994984
+ 30
+0.0
+ 10
+105.22873687700000289
+ 20
+-5.6855330469999803
+ 30
+0.0
+ 10
+105.22883443000000625
+ 20
+-5.6849406479999498
+ 30
+0.0
+ 10
+105.22897338900000364
+ 20
+-5.68409681299993963
+ 30
+0.0
+ 10
+105.22937909600000239
+ 20
+-5.68358395299992036
+ 30
+0.0
+ 10
+105.22944641099999785
+ 20
+-5.68349885899993978
+ 30
+0.0
+ 10
+105.22944641099999785
+ 20
+-5.68325068599995031
+ 30
+0.0
+ 10
+105.22944641099999785
+ 20
+-5.6829428299999396
+ 30
+0.0
+ 10
+105.22944641099999785
+ 20
+-5.68218183499994023
+ 30
+0.0
+ 10
+105.2294962699999985
+ 20
+-5.68210949699994039
+ 30
+0.0
+ 10
+105.23034192699999778
+ 20
+-5.68088256099998024
+ 30
+0.0
+ 10
+105.23064500799999621
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 10
+105.23034192699999778
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 10
+105.22968763000000081
+ 20
+-5.67914888499996007
+ 30
+0.0
+ 10
+105.2264552080000044
+ 20
+-5.67849621499993962
+ 30
+0.0
+ 10
+105.2261752600000051
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 10
+105.22534192700000233
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 10
+105.22534192700000233
+ 20
+-5.67877616299994958
+ 30
+0.0
+ 10
+105.22316907500000127
+ 20
+-5.67817110099997979
+ 30
+0.0
+ 10
+105.21788261700000078
+ 20
+-5.67425142399997995
+ 30
+0.0
+ 10
+105.21617525999999998
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 10
+105.21568209599999477
+ 20
+-5.67343599399992993
+ 30
+0.0
+ 10
+105.2137354810000005
+ 20
+-5.67061657699998012
+ 30
+0.0
+ 10
+105.21450859300000502
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 10
+105.21395520800000156
+ 20
+-5.66766288199995039
+ 30
+0.0
+ 10
+105.21367526000000225
+ 20
+-5.66544282999995996
+ 30
+0.0
+ 10
+105.21312187499999879
+ 20
+-5.66432954899994012
+ 30
+0.0
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+POLYLINE
+  5
+fc
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+  6
+CONTINUOUS
+420
+     0
+100
+AcDb3dPolyline
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     8
+  0
+VERTEX
+  5
+fd
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21844925099999557
+ 20
+-5.66290052699998014
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+fe
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2183303829999943
+ 20
+-5.66279888199994996
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+ff
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21761322000000405
+ 20
+-5.66184186899994035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+100
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21726226799999893
+ 20
+-5.66136264799996969
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+101
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21678161600000578
+ 20
+-5.66136264799996969
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+102
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21655273400000397
+ 20
+-5.66160297399995027
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+103
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21655273400000397
+ 20
+-5.66232109099996972
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+104
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21523390999999492
+ 20
+-5.66245321799994006
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+105
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21295929000000058
+ 20
+-5.66268110299994998
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+106
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21284192699999949
+ 20
+-5.66281167899995985
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+107
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21284192699999949
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+108
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21312187499999879
+ 20
+-5.66432954899994012
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+109
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21367526000000225
+ 20
+-5.66544282999995996
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10a
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21395520800000156
+ 20
+-5.66766288199995039
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10b
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21450859300000502
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10c
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2137354810000005
+ 20
+-5.67061657699998012
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10d
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21568209599999477
+ 20
+-5.67343599399992993
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10e
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21617525999999998
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+10f
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.21788261700000078
+ 20
+-5.67425142399997995
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+110
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22316907500000127
+ 20
+-5.67817110099997979
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+111
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22534192700000233
+ 20
+-5.67877616299994958
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+112
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22534192700000233
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+113
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2261752600000051
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+114
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2264552080000044
+ 20
+-5.67849621499993962
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+115
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22968763000000081
+ 20
+-5.67914888499996007
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+116
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23034192699999778
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+117
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23064500799999621
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+118
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23076629599999876
+ 20
+-5.68026685699993994
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+119
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23117526000000055
+ 20
+-5.68010202599992997
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11a
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23136138899999992
+ 20
+-5.6800270079999704
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11b
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23154208299999368
+ 20
+-5.67942389299997963
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11c
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23171997100000397
+ 20
+-5.67883014699993005
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11d
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23266934900000535
+ 20
+-5.67796390799998019
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11e
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23303222699999537
+ 20
+-5.67763280899993017
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+11f
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23374938999999983
+ 20
+-5.67739295999995974
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+120
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23387146000000314
+ 20
+-5.6767950059999599
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+121
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23379014299999312
+ 20
+-5.67663538899996034
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+122
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23362731900000711
+ 20
+-5.6763157839999403
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+123
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23374938999999983
+ 20
+-5.6746411319999801
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+124
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23397951500000147
+ 20
+-5.67362579199993977
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+125
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23399353000000644
+ 20
+-5.67356395699994032
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+126
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23399353000000644
+ 20
+-5.67260599099995044
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+127
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23291015600000264
+ 20
+-5.67248678199996004
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+128
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23314666699999975
+ 20
+-5.67212820099995962
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+129
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23339080799999579
+ 20
+-5.67200803799994002
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12a
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23423004199999298
+ 20
+-5.67212676999997978
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12b
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23450859300000104
+ 20
+-5.67208667999994987
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12c
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23506164600000545
+ 20
+-5.67200708399997033
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12d
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23497210099999677
+ 20
+-5.67104168299993994
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12e
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23493957499999851
+ 20
+-5.67069101299995015
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+12f
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23518371599999455
+ 20
+-5.67021179199998038
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+130
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23594010300000434
+ 20
+-5.67007434199996041
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+131
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23650360099999546
+ 20
+-5.66997194299995044
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+132
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23793029799999488
+ 20
+-5.66973209399993028
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+133
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23813609200000485
+ 20
+-5.66960949699994998
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+134
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23853302000000554
+ 20
+-5.66937303499998002
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+135
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23867525999999373
+ 20
+-5.66931128999994005
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+136
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23895263699999703
+ 20
+-5.66919088399992965
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+137
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2393569949999943
+ 20
+-5.66901397699995968
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+138
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23991136799999424
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+139
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24019622800000207
+ 20
+-5.66865396499998031
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13a
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.24031829800000537
+ 20
+-5.66829490699995997
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13b
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23912048299999356
+ 20
+-5.66793680199992966
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13c
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23867525999999373
+ 20
+-5.66812903399994994
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13d
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23828887899999529
+ 20
+-5.66829585999994023
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13e
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23793029799999488
+ 20
+-5.66865491899995
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+13f
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2366205219999955
+ 20
+-5.66872894199997024
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+140
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2357788089999957
+ 20
+-5.66877651199996979
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+141
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23534192699999323
+ 20
+-5.66825249699996991
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+142
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.2345809939999981
+ 20
+-5.6673398019999599
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+143
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23425095400000373
+ 20
+-5.66678521799997004
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+144
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23375034900000458
+ 20
+-5.66594402199995972
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+145
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23351287799999909
+ 20
+-5.6655449869999801
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+146
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23255157500000223
+ 20
+-5.66482782399993035
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+147
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23248893500000634
+ 20
+-5.66433624599994978
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+148
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23242950399999529
+ 20
+-5.66386985799993958
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+149
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.23027801499999612
+ 20
+-5.66291379899996983
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+14a
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22950859300000559
+ 20
+-5.66288325299996043
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+14b
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22728729199999975
+ 20
+-5.66279506699993007
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+14c
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22406768800000521
+ 20
+-5.66303586999992969
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+14d
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22073364300000264
+ 20
+-5.66375493999993029
+ 30
+0.0
+ 70
+    32
+  0
+VERTEX
+  5
+14e
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+100
+AcDbVertex
+100
+AcDb3dPolylineVertex
+ 10
+105.22000884999999926
+ 20
+-5.66423416099997024
+ 30
+0.0
+ 70
+    32
+  0
+SEQEND
+  5
+14f
+330
+   252
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+     0
+  0
+HATCH
+  5
+150
+330
+6d
+100
+AcDbEntity
+  8
+daerah aliran sungai Features Polygon25D
+420
+2874105
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     2
+ 72
+     0
+ 73
+     1
+ 93
+    83
+ 10
+105.21844925099999557
+ 20
+-5.66290052699998014
+ 30
+0.0
+ 10
+105.2183303829999943
+ 20
+-5.66279888199994996
+ 30
+0.0
+ 10
+105.21761322000000405
+ 20
+-5.66184186899994035
+ 30
+0.0
+ 10
+105.21726226799999893
+ 20
+-5.66136264799996969
+ 30
+0.0
+ 10
+105.21678161600000578
+ 20
+-5.66136264799996969
+ 30
+0.0
+ 10
+105.21655273400000397
+ 20
+-5.66160297399995027
+ 30
+0.0
+ 10
+105.21655273400000397
+ 20
+-5.66232109099996972
+ 30
+0.0
+ 10
+105.21523390999999492
+ 20
+-5.66245321799994006
+ 30
+0.0
+ 10
+105.21295929000000058
+ 20
+-5.66268110299994998
+ 30
+0.0
+ 10
+105.21284192699999949
+ 20
+-5.66281167899995985
+ 30
+0.0
+ 10
+105.21284192699999949
+ 20
+-5.66294282999995957
+ 30
+0.0
+ 10
+105.21312187499999879
+ 20
+-5.66432954899994012
+ 30
+0.0
+ 10
+105.21367526000000225
+ 20
+-5.66544282999995996
+ 30
+0.0
+ 10
+105.21395520800000156
+ 20
+-5.66766288199995039
+ 30
+0.0
+ 10
+105.21450859300000502
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 10
+105.2137354810000005
+ 20
+-5.67061657699998012
+ 30
+0.0
+ 10
+105.21568209599999477
+ 20
+-5.67343599399992993
+ 30
+0.0
+ 10
+105.21617525999999998
+ 20
+-5.67377616299996035
+ 30
+0.0
+ 10
+105.21788261700000078
+ 20
+-5.67425142399997995
+ 30
+0.0
+ 10
+105.22316907500000127
+ 20
+-5.67817110099997979
+ 30
+0.0
+ 10
+105.22534192700000233
+ 20
+-5.67877616299994958
+ 30
+0.0
+ 10
+105.22534192700000233
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 10
+105.2261752600000051
+ 20
+-5.67794282999995037
+ 30
+0.0
+ 10
+105.2264552080000044
+ 20
+-5.67849621499993962
+ 30
+0.0
+ 10
+105.22968763000000081
+ 20
+-5.67914888499996007
+ 30
+0.0
+ 10
+105.23034192699999778
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 10
+105.23064500799999621
+ 20
+-5.68044282999994987
+ 30
+0.0
+ 10
+105.23076629599999876
+ 20
+-5.68026685699993994
+ 30
+0.0
+ 10
+105.23117526000000055
+ 20
+-5.68010202599992997
+ 30
+0.0
+ 10
+105.23136138899999992
+ 20
+-5.6800270079999704
+ 30
+0.0
+ 10
+105.23154208299999368
+ 20
+-5.67942389299997963
+ 30
+0.0
+ 10
+105.23171997100000397
+ 20
+-5.67883014699993005
+ 30
+0.0
+ 10
+105.23266934900000535
+ 20
+-5.67796390799998019
+ 30
+0.0
+ 10
+105.23303222699999537
+ 20
+-5.67763280899993017
+ 30
+0.0
+ 10
+105.23374938999999983
+ 20
+-5.67739295999995974
+ 30
+0.0
+ 10
+105.23387146000000314
+ 20
+-5.6767950059999599
+ 30
+0.0
+ 10
+105.23379014299999312
+ 20
+-5.67663538899996034
+ 30
+0.0
+ 10
+105.23362731900000711
+ 20
+-5.6763157839999403
+ 30
+0.0
+ 10
+105.23374938999999983
+ 20
+-5.6746411319999801
+ 30
+0.0
+ 10
+105.23397951500000147
+ 20
+-5.67362579199993977
+ 30
+0.0
+ 10
+105.23399353000000644
+ 20
+-5.67356395699994032
+ 30
+0.0
+ 10
+105.23399353000000644
+ 20
+-5.67260599099995044
+ 30
+0.0
+ 10
+105.23291015600000264
+ 20
+-5.67248678199996004
+ 30
+0.0
+ 10
+105.23314666699999975
+ 20
+-5.67212820099995962
+ 30
+0.0
+ 10
+105.23339080799999579
+ 20
+-5.67200803799994002
+ 30
+0.0
+ 10
+105.23423004199999298
+ 20
+-5.67212676999997978
+ 30
+0.0
+ 10
+105.23450859300000104
+ 20
+-5.67208667999994987
+ 30
+0.0
+ 10
+105.23506164600000545
+ 20
+-5.67200708399997033
+ 30
+0.0
+ 10
+105.23497210099999677
+ 20
+-5.67104168299993994
+ 30
+0.0
+ 10
+105.23493957499999851
+ 20
+-5.67069101299995015
+ 30
+0.0
+ 10
+105.23518371599999455
+ 20
+-5.67021179199998038
+ 30
+0.0
+ 10
+105.23594010300000434
+ 20
+-5.67007434199996041
+ 30
+0.0
+ 10
+105.23650360099999546
+ 20
+-5.66997194299995044
+ 30
+0.0
+ 10
+105.23793029799999488
+ 20
+-5.66973209399993028
+ 30
+0.0
+ 10
+105.23813609200000485
+ 20
+-5.66960949699994998
+ 30
+0.0
+ 10
+105.23853302000000554
+ 20
+-5.66937303499998002
+ 30
+0.0
+ 10
+105.23867525999999373
+ 20
+-5.66931128999994005
+ 30
+0.0
+ 10
+105.23895263699999703
+ 20
+-5.66919088399992965
+ 30
+0.0
+ 10
+105.2393569949999943
+ 20
+-5.66901397699995968
+ 30
+0.0
+ 10
+105.23991136799999424
+ 20
+-5.66877616299995957
+ 30
+0.0
+ 10
+105.24019622800000207
+ 20
+-5.66865396499998031
+ 30
+0.0
+ 10
+105.24031829800000537
+ 20
+-5.66829490699995997
+ 30
+0.0
+ 10
+105.23912048299999356
+ 20
+-5.66793680199992966
+ 30
+0.0
+ 10
+105.23867525999999373
+ 20
+-5.66812903399994994
+ 30
+0.0
+ 10
+105.23828887899999529
+ 20
+-5.66829585999994023
+ 30
+0.0
+ 10
+105.23793029799999488
+ 20
+-5.66865491899995
+ 30
+0.0
+ 10
+105.2366205219999955
+ 20
+-5.66872894199997024
+ 30
+0.0
+ 10
+105.2357788089999957
+ 20
+-5.66877651199996979
+ 30
+0.0
+ 10
+105.23534192699999323
+ 20
+-5.66825249699996991
+ 30
+0.0
+ 10
+105.2345809939999981
+ 20
+-5.6673398019999599
+ 30
+0.0
+ 10
+105.23425095400000373
+ 20
+-5.66678521799997004
+ 30
+0.0
+ 10
+105.23375034900000458
+ 20
+-5.66594402199995972
+ 30
+0.0
+ 10
+105.23351287799999909
+ 20
+-5.6655449869999801
+ 30
+0.0
+ 10
+105.23255157500000223
+ 20
+-5.66482782399993035
+ 30
+0.0
+ 10
+105.23248893500000634
+ 20
+-5.66433624599994978
+ 30
+0.0
+ 10
+105.23242950399999529
+ 20
+-5.66386985799993958
+ 30
+0.0
+ 10
+105.23027801499999612
+ 20
+-5.66291379899996983
+ 30
+0.0
+ 10
+105.22950859300000559
+ 20
+-5.66288325299996043
+ 30
+0.0
+ 10
+105.22728729199999975
+ 20
+-5.66279506699993007
+ 30
+0.0
+ 10
+105.22406768800000521
+ 20
+-5.66303586999992969
+ 30
+0.0
+ 10
+105.22073364300000264
+ 20
+-5.66375493999993029
+ 30
+0.0
+ 10
+105.22000884999999926
+ 20
+-5.66423416099997024
+ 30
+0.0
+ 10
+105.21844925099999557
+ 20
+-5.66290052699998014
+ 30
+0.0
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLEADERSTYLE
+350
+43
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_TABLESTYLE
+350
+42
+  3
+ACAD_VISUALSTYLE
+350
+2A
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+43
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+42
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+2A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+2dWireframe
+350
+2F
+  3
+3D Hidden
+350
+31
+  3
+3dWireframe
+350
+30
+  3
+Basic
+350
+32
+  3
+Brighten
+350
+36
+  3
+ColorChange
+350
+3A
+  3
+Conceptual
+350
+34
+  3
+Dim
+350
+35
+  3
+Facepattern
+350
+39
+  3
+Flat
+350
+2B
+  3
+FlatWithEdges
+350
+2C
+  3
+Gouraud
+350
+2D
+  3
+GouraudWithEdges
+350
+2E
+  3
+Linepattern
+350
+38
+  3
+Realistic
+350
+33
+  3
+Thicken
+350
+37
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+0.0
+ 21
+0.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+30.0
+ 24
+49.75
+ 34
+0.0
+ 15
+130.5
+ 25
+163.1318914119703
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+331
+29
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+VISUALSTYLE
+  5
+2F
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+     4
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+31
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+3D Hidden
+ 70
+     6
+ 71
+     1
+ 72
+     2
+ 73
+     2
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     2
+ 91
+        2
+ 64
+     7
+ 65
+   257
+ 75
+     2
+175
+     1
+ 42
+40.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     3
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+30
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+3dWireframe
+ 70
+     5
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+32
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+     7
+ 71
+     1
+ 72
+     0
+ 73
+     1
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+36
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+    12
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+50.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+3A
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+    16
+ 71
+     2
+ 72
+     2
+ 73
+     3
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     8
+421
+  8421504
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     8
+424
+  8421504
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+34
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+     9
+ 71
+     3
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     2
+ 91
+        2
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+40.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     3
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+35
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+    11
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+-50.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+39
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+    15
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2B
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+     0
+ 71
+     2
+ 72
+     1
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+     1
+ 71
+     2
+ 72
+     1
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2D
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+     2
+ 71
+     2
+ 72
+     2
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+2E
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+     3
+ 71
+     2
+ 72
+     2
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+38
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+    14
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     7
+175
+     7
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+33
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+     8
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        0
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     8
+424
+  7895160
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+VISUALSTYLE
+  5
+37
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+    13
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+       12
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+     0
+  0
+ENDSEC
+  0
+EOF
