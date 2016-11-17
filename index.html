@@ -1,102 +1,111 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Map of Pahawang Island</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" type="text/css">
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" type="text/javascript"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript"></script>
-	<style>
-		html, body, #map{
-		height: 90%;
-		width: 100%;
-		padding-right: 20%;
-		padding-left: 20%;
-		}
-		/* in production, you should display attribution! DO NOT TRY THIS: */
-		.leaflet-control-attribution { display:important}
-	</style>
+  <title>Map of Pahawang Island</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+  <style>
+    html, body, #map{
+    height: 500px;
+    width: 720px;
+    }
+    /* in production, you should display attribution! DO NOT TRY THIS: */
+    .leaflet-control-attribution { display:important}
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+    .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+    .tg .tg-yw4l{vertical-align:top}
+    @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+  </style>
 </head>
 
-	<center><h2>Map of Pahawang Island</h2></center>
-	<div id="map"></div>
-	<script src="https://besutkode.github.io/uni-task-2-Lidilidian/map_of_pahawang.geojson" type="text/javascript"></script>
-	<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-	<script>
-		
-		var pustaPahawang=[ -5.6751072, 105.2208300]; 
-		
-		var map = L.map('map').setView(pustaPahawang, 14);
-		
-		var OpenTopoMap = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-			maxZoom: 17,
-			attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
-		});
+<body>
+<h2>Map of Pahawang Island visualized using HTML + <a href="http://leafletjs.com/">leaflet.js</a></h2>
+  <div class="tg-wrap">
+    <table class="tg">
+      <tr>
+        <th class="tg-yw4l" rowspan="3">
+            <div id="map"></div>
+          <script src="https://besutkode.github.io/uni-task-2-Lidilidian/map_of_pahawang.geojson" type="text/javascript"></script>
+          <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+          <script>
+            
+            var pustaPahawang=[ -5.6751072, 105.2208300]; 
+            
+            var map = L.map('map').setView(pustaPahawang, 14);
+            
+            var OpenTopoMap = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+              maxZoom: 17,
+              attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+            });
 
-		OpenTopoMap.addTo(map);
+            OpenTopoMap.addTo(map);
 
-		L.geoJson(mapdata, {
-		    style: function (feature) {
-		        return {color: feature.properties.stroke};
-		    },
-		    onEachFeature: function (feature, layer) {
-		    	var detailPwg = 'Name : ' + feature.properties.name + '<br>' +
-		    			  'Postcode : ' + feature.properties.postcode;
+            L.geoJson(mapdata, {
+                style: function (feature) {
+                    return {color: feature.properties.stroke};
+                },
+                onEachFeature: function (feature, layer) {
+                  var detailPwg = 'Name : ' + feature.properties.name + '<br>' +
+                        'Postcode : ' + feature.properties.postcode;
 
-		        if (feature.geometry.type == "LineString"){
-		       		layer.bindPopup(feature.properties.Layer);
-		        } else if (feature.properties.place){
-		        	layer.bindPopup(detailPwg)
-		        } else {
-		        	layer.bindPopup(feature.properties.name);
-		        }
+                    if (feature.geometry.type == "LineString"){
+                      layer.bindPopup(feature.properties.Layer);
+                    } else if (feature.properties.place){
+                      layer.bindPopup(detailPwg)
+                    } else {
+                      layer.bindPopup(feature.properties.name);
+                    }
 
-		    }
-		}).addTo(map);
+                }
+            }).addTo(map);
 
-	</script>
-
-	<br>
-
-	<div class="container">
-	  <div class="row">
-	    <div class="col-md-6">
-              <table class="table table-bordered">
-                <tr>
-                  <td style="background-color:#FFF">
-	                <hr style="height: 5px;
-						background-color: #989898;
-						border: none;
-					">
-					&nbsp;&nbsp;
-				  </td>
-                  <td>
-                  Batas Administratif Desa Pahawang<br>
-                  <a href="http://tanahair.indonesia.go.id/home/index.html">Sumber</a> | License : <a href="http://www.opendefinition.org/licenses/cc-by">CC-BY</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="background-color:#fff">
-	                <hr style="height: 5px;
-						background-color: #8ae0e3;
-						border: none;
-					">
-					&nbsp;&nbsp;
-                  </td>
-                  <td>
-                  Daerah Aliran Sungai Pahawang<br>
-                  <a href="http://appgis.dephut.go.id/appgis/download.aspx">Sumber</a> | License : <a href="http://www.opendefinition.org/licenses/cc-by">CC-BY</a>
-                  </td>
-                </tr>
-              </table>
-	    </div>
-	  </div>
-	</div>
-
-<<<<<<< HEAD
+          </script>
+        </th>
+        <th class="tg-yw4l">Legend</th>
+        <th class="tg-yw4l">Detail</th>
+        <th class="tg-yw4l">Data Source</th>
+        <th class="tg-yw4l">Lisence</th>
+      </tr>
+      <tr>
+        <td class="tg-yw4l">
+          <hr style="height: 5px;
+            background-color: #989898;
+            border: none;
+            ">
+          &nbsp;&nbsp;
+        </td>
+        <td class="tg-yw4l">
+          Batas Administratif Desa Pahawang
+        </td>
+        <td class="tg-yw4l">
+          Data Batas Administratif Desa Pahawang didapat dari <a href="http://portal.ina-sdi.or.id/arcgis/rest/services/IGD/RupabumiIndonesia/MapServer">Indonesian Geospatial Portal</a>
+        </td>
+        <td class="tg-yw4l">
+          <a href="http://www.opendefinition.org/licenses/cc-by">Creative Commons Attribution Lisence (cc-by)</a> (berdasarkan yang disebutkan oleh <a href="http://data.go.id">Portal Data Indonesia</a>)
+        </td>
+      </tr>
+      <tr>
+        <td class="tg-yw4l">
+          <hr style="height: 5px;
+            background-color: #8ae0e3;
+            border: none;
+            ">
+          &nbsp;&nbsp;
+        </td>
+        <td class="tg-yw4l">
+          Daerah Aliran Sungai Pulau Pahawang
+        </td>
+        <td class="tg-yw4l">
+          Data Daerah Aliran Sungai didapat dari <a href="http://appgis.dephut.go.id/appgis/download.aspx">APPGIS Dephut Indonesia</a>
+        </td>
+        <td class="tg-yw4l">
+          <a href="http://www.opendefinition.org/licenses/cc-by">Creative Commons Attribution Lisence (cc-by)</a> (berdasarkan yang disebutkan oleh <a href="http://data.go.id">Portal Data Indonesia</a>)
+        </td>
+      </tr>
+    </table>
+  </div>
+  <pre>Note : for more information and other data check this map repository in : <a href="https://github.com/BesutKode/uni-task-2-Lidilidian">BesutKode/uni-task-2-Lidilidian</a></pre>
+</body>
 </html>
-=======
-</html>
->>>>>>> citest
