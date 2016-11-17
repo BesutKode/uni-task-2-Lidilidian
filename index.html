@@ -21,7 +21,7 @@
 </head>
 
 <body>
-<h2>Map of Pahawang Island visualized using HTML + <a href="http://leafletjs.com/">leaflet.js</a></h2>
+<h2>Peta Pulau Pahawang divisualisasikan menggunakan HTML + <a href="http://leafletjs.com/">leaflet.js</a></h2>
   <div class="tg-wrap">
     <table class="tg">
       <tr>
@@ -35,7 +35,7 @@
             
             var map = L.map('map').setView(pustaPahawang, 14);
             
-            var OpenTopoMap = L.tileLayer('http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+            var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
               maxZoom: 17,
               attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
             });
@@ -63,10 +63,10 @@
 
           </script>
         </th>
-        <th class="tg-yw4l">Legend</th>
+        <th class="tg-yw4l">Legenda</th>
         <th class="tg-yw4l">Detail</th>
-        <th class="tg-yw4l">Data Source</th>
-        <th class="tg-yw4l">Lisence</th>
+        <th class="tg-yw4l">Sumber data</th>
+        <th class="tg-yw4l">Lisensi</th>
       </tr>
       <tr>
         <td class="tg-yw4l">
@@ -106,6 +106,6 @@
       </tr>
     </table>
   </div>
-  <pre>Note : for more information and other data check this map repository in : <a href="https://github.com/BesutKode/uni-task-2-Lidilidian">BesutKode/uni-task-2-Lidilidian</a></pre>
+  <pre>Catatan : Untuk informasi lebih lanjut silahkan kunjungi repositori peta ini di : <a href="https://github.com/BesutKode/uni-task-2-Lidilidian">BesutKode/uni-task-2-Lidilidian</a></pre>
 </body>
 </html>
